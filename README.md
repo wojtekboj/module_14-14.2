@@ -17,7 +17,6 @@ Project is created with:
 The following tools were used
 * Webstorm
 * Git
-* NPM
 * <a href="https://reactjs.org/">React</a>
 
 ## Screen 
