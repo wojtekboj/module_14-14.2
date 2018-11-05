@@ -18,7 +18,6 @@ The following tools were used
 * Webstorm
 * Git
 * NPM
-* <a href="https://nodejs.org/en/">Node.js</a>
 * <a href="https://reactjs.org/">React</a>
 
 ## Screen 
